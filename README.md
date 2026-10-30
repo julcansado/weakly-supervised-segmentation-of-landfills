@@ -4,7 +4,7 @@ Júlia Ascencio Cansado <br>
 Instituto Nacional de Pesquisas Espaciais (INPE) <br>
 Solved - Soluções em Geoinformação <br>
 São Paulo, Brazil <br>
-julia.cansado@alumni.usp.br <br>
+julia.cansado@inpe.br <br>
 
 ## Minimal Requisites
 - JavaScript (focused on Google Earth Engine) and Python Language
