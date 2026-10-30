@@ -1,4 +1,4 @@
-# Identifying Aggregations of Waste in the Metropolitan Region of São Paulo, Brazil
+# Weakly Supervised Segmentation of Landfills and Dump Sites in São Paulo Using Sentinel-2 Imagery
 ## Authors 
 Júlia Ascencio Cansado <br>
 Instituto Nacional de Pesquisas Espaciais (INPE) <br>
