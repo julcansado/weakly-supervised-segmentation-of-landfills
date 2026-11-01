@@ -2,7 +2,6 @@
 ## Authors 
 Júlia Ascencio Cansado <br>
 Instituto Nacional de Pesquisas Espaciais (INPE) <br>
-Solved - Soluções em Geoinformação <br>
 São Paulo, Brazil <br>
 julia.cansado@inpe.br <br>
 
